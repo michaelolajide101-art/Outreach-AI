@@ -58,7 +58,7 @@ For your **Project 500 OutreachAI project**, the MVP can focus on:
 | **CRM Integration**    | Keep prospect/customer information synchronized |
 
 These capabilities align with established sales-engagement patterns such as prospect prioritization, personalized messaging, sequences, scheduling, and analytics. ([Outreach][2])
-NO PROJECT DIES IN OUR HANDS
+
 
 **In one sentence:**
 **OutreachAI is an AI-powered SDR platform that automates prospect qualification, personalized outreach, and follow-ups to help businesses turn more prospects into qualified meetings while keeping humans in control.**
